@@ -1,0 +1,16 @@
+#first {
+    background-color: darkorange;
+    color: ghostwhite;
+  }
+  #second {
+    background-color: darksalmon;
+    color: ghostwhite;
+  }
+  .bg-blue {
+    background-color: darkviolet;
+    color: ghostwhite;
+  }
+  .red {
+    background-color: gold;
+    color: greenyellow;
+  }
